@@ -1,0 +1,9 @@
+# Arquivos compilados
+*.class
+bin/
+out/
+
+# Configurações locais da IDE
+.classpath
+.project
+.settings/
